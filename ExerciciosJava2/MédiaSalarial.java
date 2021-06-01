@@ -7,7 +7,7 @@ public class MédiaSalarial {
 		Double salario = 0.0;
 		Double Media = 0.0;
 		Double Soma = 0.0;
-		Double menor = 1000000000.0;
+		Double menor = 10000000000.0;
 		Double maior = 0.0;
 		Integer  QuantidadeFuncionario = 0;
 		System.out.println("CALCULANDO MÉDIA SALARIAL DOS FUNCIONÁRIOS ");
