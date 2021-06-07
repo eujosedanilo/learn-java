@@ -10,7 +10,7 @@ public class ExercicioVetores {
 			Tarefa[i] = scanner.nextLine();
 		}
 		
-		System.out.println("Suas tarefas são: ");
+		System.out.println("Suas tarefas são:: ");
 		
 		for (int i = 0; i < Tarefa.length; i++) {
 			System.out.println(i + ": " + Tarefa[i]);
